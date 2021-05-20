@@ -1,2 +1,0 @@
-# HookShop
-WebBanHang
